@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Disease Prediction from Medical Data
 
 Objective:
@@ -14,3 +15,6 @@ Symptoms, age, medical records analysis
 
 Task:
 CodeAlpha Machine Learning Internship - Task 4
+=======
+# CodeAlpha_DiseasePrediction
+>>>>>>> 240f0893e205f463cc25a86b8011179adff52212
